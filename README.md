@@ -1,3 +1,3 @@
-# my_first_repository
+# Data Visualisation in R
 
-This is my first repository hosted on Github.
+This repository contains the workshop materials
